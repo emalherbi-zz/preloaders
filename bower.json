@@ -1,0 +1,22 @@
+{
+  "name": "preloaders",
+  "version": "1.0.0",
+  "description": "preloaders!",
+  "dependencies": {
+	  "normalize-css" : ">=2.1.3",
+    "jquery" : ">= 1.9.0",
+    "bootstrap" : "~3.2.0"
+  },
+  "authors": [
+    "emalherbi"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

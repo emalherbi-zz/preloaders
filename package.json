@@ -1,17 +1,25 @@
 {
-  "name": "imgProgress",
+  "name": "preloaders",
   "version": "1.0.0",
-  "description": "Image Progress!",
-  "main": "docs/index.html",
-  "homepage": "http://emalherbi.github.io/imgProgress/",
+  "description": "preloaders!",
+  "main": "app/index.html",
   "author": "emalherbi",
-  "license": {
-    "type": "MIT",
-    "url": "http://en.wikipedia.org/wiki/MIT_License"
-  },
+  "license": "MIT",
   "devDependencies": {
     "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-concat": "^0.5.0",
+    "grunt-contrib-copy": "^0.5.0",
+    "grunt-contrib-cssmin": "^0.10.0",
+    "grunt-contrib-htmlmin": "^0.3.0",
+    "grunt-contrib-imagemin": "^0.8.0",
+    "grunt-contrib-uglify": "^0.5.1",
+    "grunt-html-minify": "^0.3.1",
     "grunt-gh-pages": "^0.9.1",
-    "grunt-notify": "^0.3.1"
+    "grunt-install-dependencies": "^0.2.0",
+    "grunt-mkdir": "^0.1.2",
+    "grunt-notify": "^0.3.1",
+    "grunt-rev": "^0.1.0",
+    "grunt-usemin": "^2.3.0"
   }
 }

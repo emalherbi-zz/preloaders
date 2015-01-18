@@ -1,15 +1,11 @@
-[imgProgress](http://emalherbi.github.io/imgProgress/)
+[preloaders](http://emalherbi.github.io/preloaders/)
 =======
-
-Add progress to your App.
-
-1 - Blue Progress
 
 Support
 -------
 
 __Bugs and requests__: submit them through the project's issues tracker.<br>
-[![Issues](http://img.shields.io/github/issues/emalherbi/imgProgress.svg)]( https://github.com/emalherbi/imgProgress/issues)
+[![Issues](http://img.shields.io/github/issues/emalherbi/preloaders.svg)]( https://github.com/emalherbi/preloaders/issues)
 
 Contributing
 -------
