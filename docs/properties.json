@@ -1,0 +1,5 @@
+{
+  "fonts" : "bower_components/bootstrap/dist/fonts",
+  "src" : "app",
+  "dist" : "dist"
+}

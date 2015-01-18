@@ -1,0 +1,94 @@
+/* app css stylesheet */
+.browsehappy {
+  background: rgb(14,14,14); /* Old browsers */
+  background: -moz-linear-gradient(-45deg,  rgba(14,14,14,1) 20%, rgba(125,126,125,1) 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, right bottom, color-stop(20%,rgba(14,14,14,1)), color-stop(100%,rgba(125,126,125,1))); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(-45deg,  rgba(14,14,14,1) 20%,rgba(125,126,125,1) 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(-45deg,  rgba(14,14,14,1) 20%,rgba(125,126,125,1) 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(-45deg,  rgba(14,14,14,1) 20%,rgba(125,126,125,1) 100%); /* IE10+ */
+  background: linear-gradient(135deg,  rgba(14,14,14,1) 20%,rgba(125,126,125,1) 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0e0e0e', endColorstr='#7d7e7d',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+  color: #FFFFFF;
+  margin: 0 0 1em;
+  padding: 0.2em 1em;
+}
+/* Space out content a bit */
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+  color: #555;
+  font-family: "Maven Pro","Helvetica Neue",Helvetica,sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.4;
+}
+/* Everything but the jumbotron gets side spacing for mobile first views */
+.header, .footer {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.container-body {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+/*********************************/
+/** HEADER                      **/
+/*********************************/
+
+/* Custom page header */
+.header {
+  border-bottom: 1px solid #e5e5e5;
+}
+/* Make the masthead heading the same height as the navigation */
+.header h3 {
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 40px;
+  padding-bottom: 19px;
+}
+
+/*********************************/
+/** JUMBOTRON                   **/
+/*********************************/
+
+/* Main marketing message and sign up button */
+.jumbotron {
+  text-align: center;
+}
+.jumbotron .img-responsive {
+  margin: 0 auto;
+}
+.jumbotron h1 {
+    font-size: 36px;
+}
+
+/*********************************/
+/** FOOTER                      **/
+/*********************************/
+
+/* Custom page footer */
+.footer {
+  padding-top: 19px;
+  color: #777;
+  border-top: 1px solid #e5e5e5;
+  margin-top: 3em;
+}
+
+/*********************************/
+/** RESPONSIVE                  **/
+/*********************************/
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+  .container {
+    max-width: 730px;
+  }
+
+  /* Space out the masthead */
+  /*.header {
+    margin-bottom: 30px;
+  }*/
+}

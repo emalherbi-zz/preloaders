@@ -1,0 +1,17 @@
+{
+  "name": "imgProgress",
+  "version": "1.0.0",
+  "description": "Image Progress!",
+  "main": "docs/index.html",
+  "homepage": "http://emalherbi.github.io/imgProgress/",
+  "author": "emalherbi",
+  "license": {
+    "type": "MIT",
+    "url": "http://en.wikipedia.org/wiki/MIT_License"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-gh-pages": "^0.9.1",
+    "grunt-notify": "^0.3.1"
+  }
+}
