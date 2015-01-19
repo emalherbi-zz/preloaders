@@ -21,5 +21,11 @@
     "grunt-notify": "^0.3.1",
     "grunt-rev": "^0.1.0",
     "grunt-usemin": "^2.3.0"
+  },
+  "dependencies": {
+    "imagemin-gifsicle": "^4.0.0",
+    "imagemin-jpegtran": "^4.0.0",
+    "imagemin-optipng": "^4.0.0",
+    "imagemin-pngquant": "^4.0.0"
   }
 }
