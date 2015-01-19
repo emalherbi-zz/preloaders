@@ -30,4 +30,5 @@ node_modules
 # Temporary Files
 .tmp/
 
-# 
+# bower
+bower_components
